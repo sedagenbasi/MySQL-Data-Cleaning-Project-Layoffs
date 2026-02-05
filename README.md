@@ -38,5 +38,5 @@ Temizlik işlemi bittikten sonra, duplicate kayıtları bulmak için yardımcı 
 
 ## Nasıl Kullanılır?
 1. `layoffs.csv` dosyasını MySQL ortamınıza içe aktarın.
-2. `data_cleaning_queries.sql` dosyasındaki sorguları adım adım çalıştırın.
+2. `01_Data_Cleaning.sql` dosyasındaki sorguları adım adım çalıştırın.
 3. Temizlenmiş veri seti `layoffs_staging2` tablosunda kullanıma hazır olacaktır.
