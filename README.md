@@ -65,3 +65,4 @@ Bazı sektörlerin (özellikle ulaşım ve perakende) krizin ilk aşamalarında 
 1. `layoffs.csv` dosyasını MySQL ortamınıza içe aktarın.
 2. `01_Data_Cleaning.sql` dosyasındaki sorguları adım adım çalıştırın.
 3. Temizlenmiş veri seti `layoffs_staging2` tablosunda kullanıma hazır olacaktır.
+4. Keşifsel Veri Analizi gerçekleştirilmiş veri setine `02_Exploratory_Data_Analysis.sql` dosyasından ulaşabilirsiniz.
